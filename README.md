@@ -45,3 +45,5 @@ https://goerli.infura.io/v3/ed7a3f15bb464807a982bd7da629d5d0
 swap su
 
 https://goerli.infura.io/v3/9f3b62df0e424f36a36f9ad1d337c7d7
+
+wait for v1.0.0
